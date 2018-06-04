@@ -1,6 +1,6 @@
 # OctoClippy 🐙📎
 
-This Atom package adds Octocat and Hubot to the [Atom](http://atom.io) package [Clippy](https://github.com/npentrel/octoclippy) (and friends) .
+This Atom package adds Octocat and Hubot to the [Atom](http://atom.io) package [Clippy](https://atom.io/packages/clippy) (and friends) .
 
 ![Octoclippy in Action](octoclippy.gif)
 
