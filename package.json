@@ -1,14 +1,14 @@
 {
   "name": "octoclippy",
-  "version": "0.5.0",
+  "version": "0.0.1",
   "author": {
-    "name": "Simon Bartlett - Forked by Naomi Pentrel",
-    "email": "simon@sibartlett.com"
+    "name": "Naomi Pentrel (forked from Simon Bartlett)",
+    "email": "npentrel@gmail.com"
   },
-  "description": "Octocat-Clippy for your atom.",
+  "description": "Octocat-Clippy for your atom. Forked from atom-clippy to include Hubot and Monalisa Octocat",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sibartlett/atom-clippy"
+    "url": "https://github.com/npentrel/octoclippy"
   },
   "license": "MIT",
   "keywords": [
