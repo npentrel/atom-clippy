@@ -12,8 +12,9 @@ This Atom package adds Octocat and Hubot to the [Atom](http://atom.io) package [
 
 ## Using Clippy from your Atom package
 1. Install package by git cloning this package into `/Users/(Name)/.atom/packages/`.
-2. Open Atom
-3. In Atom's menu navigate to `OctoClippy` and select your favorite agent!
+2. Run `npm install`.
+4. Open Atom.
+5. In Atom's menu navigate to `OctoClippy` and select your favorite agent!
 
 ## Special Thanks
 
